@@ -1,3 +1,3 @@
 # React + Vite
 
-Website Link : https://yours-todos.vercel.app
+<a href="https://yours-todos.vercel.app" target="_blank">Click here to visit the website</a>
